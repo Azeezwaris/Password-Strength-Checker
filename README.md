@@ -21,4 +21,7 @@ A Python tool with Tkinter GUI for checking password strength, calculating entro
 
 ## Relevance
 Demonstrates secure password practices and hashing, key for SOC analyst roles.
+HEAD
 [Watch Demo](screenshots/demo.mp4)
+[Watch Demo](screenshots/demo.mp4)
+ff88757dfc415390206a296d7a55403218295b38
